@@ -1,6 +1,6 @@
 # LeetCode Solutions - March 2025
 
-Welcome to my collection of LeetCode solutions for the month of **March 2025**! This folder contains various problems I've solved from LeetCode, showcasing my problem-solving skills and growth as a developer.
+Welcome to Star Streaks ✨💻🔥 Leetcode Collection you can find Leetcode solutions for the month of **March 2025**! This folder contains various problems I've solved from LeetCode, showcasing my problem-solving skills and growth as a developer.
 
 ## About Me
 
