@@ -1,6 +1,6 @@
 # *1780. Check if Number is a Sum of Powers of Three*
 
-The problem can be found at the following link: [Question Link] (https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three?envType=daily-question&envId=2025-03-04)
+The problem can be found at the following link: [Question Link](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three?envType=daily-question&envId=2025-03-04)
 ## **Problem Description**
 
 Given an integer `n`, return `true` if it is possible to represent `n` as the sum of distinct powers of three. Otherwise, return `false`.
