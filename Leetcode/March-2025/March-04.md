@@ -140,13 +140,3 @@ In this approach, we repeatedly divide `n` by 3. If the remainder is `2` at any 
 
 ---
 
-## Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" />
-</p>
-
----
-
-**⭐ If you find this repository helpful, please give it a star! ⭐**
-```
