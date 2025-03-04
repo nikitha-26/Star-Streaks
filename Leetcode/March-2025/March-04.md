@@ -51,11 +51,6 @@ false
 
 ---
 
-### Constraints:
-- \(1 \leq n \leq 10^7\)
-
----
-
 ## Approach
 
 The key observation is that we can check if a number `n` can be represented as the sum of distinct powers of 3 by repeatedly dividing it by 3. If at any point, the remainder when dividing by 3 is 2, then it's impossible to represent the number as a sum of distinct powers of three, so we return `False`. If we successfully divide `n` by 3 and never get a remainder of 2, we return `True`.
