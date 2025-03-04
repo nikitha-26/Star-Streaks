@@ -1,4 +1,4 @@
-# 🚀 Star Streaks ✨💻🔥
+# Star Streaks ✨💻🔥
 Welcome to **Star Streaks ✨💻🔥**! This repository contains the solutions to "Problem of the Day" (POTD) from various coding platforms. The goal is to stay consistent with problem-solving, improve algorithmic thinking, and track progress over time. 💡
 
 ## 📌 Platforms Covered
