@@ -1,6 +1,5 @@
-# 🚀 Daily Coding POTD
-
-Welcome to **Daily Coding POTD**! This repository contains my daily solutions to "Problem of the Day" (POTD) from various coding platforms. The goal is to stay consistent with problem-solving, improve algorithmic thinking, and track progress over time. 💡
+# 🚀 Star Streaks ✨💻🔥
+Welcome to **Star Streaks ✨💻🔥**! This repository contains the solutions to "Problem of the Day" (POTD) from various coding platforms. The goal is to stay consistent with problem-solving, improve algorithmic thinking, and track progress over time. 💡
 
 ## 📌 Platforms Covered
 - [LeetCode](https://leetcode.com/)
