@@ -11,6 +11,10 @@ There exists an infinitely large two-dimensional grid of uncolored unit cells. Y
 
 Return the number of colored cells at the end of `n` minutes.
 
+![image](https://github.com/user-attachments/assets/71c3a5f9-abf5-4daa-a052-b12cf3b5470d)
+
+
+
 ### Example 1:
 
 #### Input:
